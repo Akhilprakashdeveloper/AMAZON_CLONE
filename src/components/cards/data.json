@@ -1,0 +1,58 @@
+[
+    {
+      "_id": "637d5f5cf12837a2b859673a",
+      "id": 1,
+      "category_id":1,
+      "category": "Phone",
+      "imgurl":"https://i.ibb.co/ygVD3Zn/phone.jpg"
+    },
+    {
+      "_id": "637d5f5cf12837a2b859673b",
+      "id": 2,
+      "category_id":2,
+      "category": "Laptop",
+      "imgurl":"https://i.ibb.co/HPLdjn4/laptop.jpg"
+    },
+    {
+      "_id": "637d5f5cf12837a2b859673c",
+      "id": 3,
+      "category_id":3,
+      "category": "Fashion",
+      "imgurl":"https://i.ibb.co/L5dGtkZ/fashion.jpg"
+    },
+    {
+      "_id": "637d5f5cf12837a2b859673d",
+      "id": 4,
+      "category_id":4,
+      "category": "HomeApplience",
+      "imgurl":"https://i.ibb.co/7CTM8XS/home-appliences.webp"
+    },
+    {
+      "_id": "637d5f5cf12837a2b859673e",
+      "id": 5,
+      "category_id":5,
+      "category": "Books",
+      "imgurl":"https://i.ibb.co/0ttqQX3/books.webp" 
+    },
+    {
+     
+      "id": 6,
+      "category_id":1,
+      "category": "Phone",
+      "imgurl":"https://i.ibb.co/SDgQgfD/pixel.jpg"
+    },
+    {
+      "id": 7,
+      "category_id":2,
+      "category": "Laptop",
+      "imgurl":"https://i.ibb.co/xFpHRng/asus.jpg"
+    },
+    {
+      "id": 8,
+      "category_id":3,
+      "category": "Fashion",
+      "imgurl":"https://i.ibb.co/7Jxwzxx/fashion.jpg"
+    }
+  ]
+
+  

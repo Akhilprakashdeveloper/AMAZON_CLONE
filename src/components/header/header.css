@@ -1,0 +1,94 @@
+.head{
+    height: 65px;
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+}
+.head a{
+    text-decoration: none;
+}
+#amazon-logo{
+    box-sizing: border-box;
+    height: 65px;
+    width: 10%;
+    padding: 1%;
+    margin-top: 0.5%;
+}
+#amazonlogo-title{
+    color: white;
+    margin-left: -1%;
+    margin-top: 1.2%;
+}
+.head-locationDiv{
+    height: 50px;
+    width: 22%;
+    margin-top: 0.5%;
+    margin-left: 2%;
+    display: flex;
+}
+#head-location{
+  color: white;
+}
+#head-locationtext1{
+  width: 10%;
+  color: white;
+  margin-left: 7%;
+  margin-top: -5px;
+}
+#head-locationtext2{
+    width: 80%;
+  color:white;
+  margin-top:15px;
+  margin-left: -15%;
+}
+
+.head-search{
+    height: 50px;
+    width: 33%;
+    margin-top: 0.5%;
+    margin-left: 2%;
+    display: flex;
+}
+#head-inputbox{
+    height: 46px;
+    width: 80%;
+    border-radius: 4%;
+    margin-top: 0.5%;
+}
+.head-searchButton{
+  width: 40px;
+}
+#head-searchicon{
+    color:greenyellow;
+    font-size: 28px; 
+}
+.head-item{
+    height: 50px;
+    width: 28%;
+    margin-top: 0.5%;
+    margin-left: 2%;
+    display: flex;
+}
+.head-items1{
+    width: auto;
+    margin-left: 3%;
+    font-size: 20px;
+    font-weight: 800;
+    background-color: black;
+    color: white;
+    border: 2px solid rgb(61, 53, 50);
+}
+.head-items2{
+    width: auto;
+    margin-left: 1%;
+    font-size: 20px;
+    font-weight: 800;
+    background-color: black;
+    color: white;
+    border: 0.01px solid rgb(61, 53, 50);
+}
+#head-home
+{
+    color:greenyellow;
+    font-size: 28px;
+}

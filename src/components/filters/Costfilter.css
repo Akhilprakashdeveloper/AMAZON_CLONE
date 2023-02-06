@@ -1,0 +1,7 @@
+.filter{
+    width: 25%;
+    background-color: greenyellow;
+    float: left;
+    display: flex;
+    flex-direction: column;
+}

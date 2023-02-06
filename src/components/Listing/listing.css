@@ -1,0 +1,43 @@
+.ProductMain-Div{ 
+    width:100%;
+    height: 1075px;
+    border: 2px solid chartreuse;
+    background-color:lightcoral;
+}
+.products{
+    width: 28%;
+    height:auto;
+    border: 1px solid white;
+    border-style:groove;
+    margin-left: 5%;
+    margin-top: 1%;
+    float: left;
+    display: flex;
+    flex-direction: row;
+}
+.Img-Div{
+    height: 100%;
+    width: 50%;
+}
+#Product-Img{
+    width: 100%;
+   object-fit: fill;
+}
+.third{
+    width: 25%;
+    height:auto;
+    border: 2px solid white;
+    margin-top: 5%;
+    float: left;
+    margin-left: 5%;
+    display: flex;
+    flex-direction: row;
+}
+.Img-Details{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 5%;
+}
+

@@ -1,0 +1,12 @@
+.main{
+    width: 100%;
+    background-color: #89aede;
+}
+
+.cart{
+    width: 85%;
+    margin-left: 8.5%;
+    margin-top: 2.5%;
+    background-color: aquamarine;
+    float: left;
+}
